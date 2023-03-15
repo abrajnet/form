@@ -1,0 +1,18 @@
+.main{
+    background-color: gainsboro;
+    margin-top: 10px;
+    max-width: 400px;
+}
+input{
+    margin: 10px;
+}
+input[type=text] {
+    background-color: #3CBC8D;
+    color: white;
+}
+input {
+	font-family: inherit;
+	line-height:inherit;
+	color:#2e3750;
+	min-width:12em;
+}
